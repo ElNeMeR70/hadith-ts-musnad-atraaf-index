@@ -1,0 +1,11 @@
+{
+  "name": "hadith-ts-musnad-atraaf-index",
+  "version": "1.0.0",
+  "description": "Companion Musnad & Atraaf Incipit Inverted Indexer (مفهرس الأطراف والمسانيد الصحابية الآلي)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
